@@ -101,3 +101,6 @@ elif option == "Live Camera":
 
        cap.release()
        cv2.destroyAllWindows()
+
+
+
